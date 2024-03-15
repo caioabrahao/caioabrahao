@@ -6,10 +6,7 @@ Meu nome é **Caio Abrahão!** Sou apaixonado por tecnologia e pelas infinitas p
 
 - 👨‍🎓 Atualmente cursando Engenharia de Software na PUCCAMP.
 - 🌱 Aprendendo flutter, SQL e BPMN.
-- 
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💡 Sempre tendo novas ideias
 
 
 ### 📫 Sinta-se a vontade para entrar em contato!
