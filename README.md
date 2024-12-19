@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a **web designer** also keen on **front-end development**!<br>At the end of the day, I just love playing around with colors, shapes, fonts and icons to create interactive experiences.</p>
+<p align="left">I'm a web designer also keen on front-end development!<br>At the end of the day, I just love playing around with colors, shapes, fonts and icons to create interactive experiences.</p>
 
 ###
 
