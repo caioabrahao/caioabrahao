@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/1307868386319011861/1319364017399009361/Behance-Banner-Frame-4.gif?ex=6765b0fe&is=67645f7e&hm=62199389d7ad5b0b54ebe58e1203b6c8232d44fa56a4bbecaf0ecea251632596&=&width=1440&height=308"  />
-</div>
-
 ###
 
 <h2 align="left">Hey there 🍹</h2>
