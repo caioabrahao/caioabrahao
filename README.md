@@ -34,7 +34,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioabrahao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img width="12" />
   <img src="https://github-profile-trophy.vercel.app?username=caioabrahao&theme=dark_lover&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph"  />
 </div>
 
